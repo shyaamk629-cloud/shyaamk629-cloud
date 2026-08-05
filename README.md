@@ -9,7 +9,7 @@
 - 💻 Learning Full Stack Development
 - 🤖 Interested in AI & Machine Learning
 - 🌱 Currently learning Java & Python
-- 📫 Reach me: your@email.com
+- 📫 Reach me: shyaamk629@gamil.com
 
 ---
 
