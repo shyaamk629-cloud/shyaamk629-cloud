@@ -38,13 +38,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=shyaamk629-cloud&theme=tokyonight)
 
 ---
-1280 × 640 px
-<p align="center">
-<img src="banner.png" width="100%">
-</p>
-https://shields.io/
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
