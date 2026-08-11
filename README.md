@@ -61,16 +61,45 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shyaamk629-cloud&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyaamk629-cloud&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shyaamk629-cloud&theme=tokyonight)
 
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+   
+ <img src="https://github-profile-trophy.vercel.app/?username=shyaamk629&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+
+ </div>
+---
+
+## 🌱 Currently learning 
+
+- 👨‍💻 coding skills.
+- 🎥 Video Editing Skills.
+- 🎮 Currently learning game development using Unity and C#, focusing on gameplay mechanics and interactive design.
+
+---
+
+##  Connect with Me  
+<p align="left">
+  <a href="https://github.com/shyaamk629"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shyaam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>  
+ 
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+   📧 Email: kit28.24bcs316email@gmail.com
+   
+###  Fun Fact
+*"👾 Fun fact: I focus on writing clean code that makes games smoother, smarter, and scalable!"*
+
+**⭐ From [Shyaam K](https://github.com/shyaamk629)**
+
+</div>
