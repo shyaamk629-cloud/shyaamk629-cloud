@@ -29,14 +29,32 @@
 <picture>
   <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
 </picture>
+##  GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyaam&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyaam&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahalakshmi/shyaam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyaam/shyaam/output/github-snake.svg" />
+---
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shyaamk629-cloud&theme=tokyonight)
 
-
 </div>
----
+
 ##  Connect with Me  
 <p align="left">
   <a href="https://github.com/mahalakshmi304"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
