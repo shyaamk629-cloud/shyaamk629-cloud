@@ -14,11 +14,6 @@
 </div>
 
 <div align="center">
- Skilled in <b>Java</b>, <b>HTML</b>, and <b>CSS</b>, with a strong interest in front-end development and effective UI design.  
-  Open to learning modern tools, improving my coding skills, and exploring new technologies to build better user experiences.
-</div>
-
-<div align="center">
  
   
 # 💫 About Me:
