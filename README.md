@@ -17,7 +17,7 @@
  
   
 # 💫 About Me:
- ### 🚀 About Me<br>   🎓 Student <br>    🌱 Currently learning Full Stack Development  <br>     💻 Interested in game development & video editing 
+ ###  🎓 Student <br>    🌱 Currently learning Full Stack Development  <br>     💻 Interested in game development & video editing 
 
 
 ## 🌐 Socials:
