@@ -65,41 +65,23 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shyaamk629-cloud&theme=tokyonight)
 
----
-## 🏆 GitHub Trophies
-
-<div align="center">
-   
- <img src="https://github-profile-trophy.vercel.app/?username=shyaamk629&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-
- </div>
----
-
-## 🌱 Currently learning 
-
-- 👨‍💻 coding skills.
-- 🎥 Video Editing Skills.
-- 🎮 Currently learning game development using Unity and C#, focusing on gameplay mechanics and interactive design.
-
----
-
-##  Connect with Me  
-<p align="left">
-  <a href="https://github.com/shyaamk629"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shyaam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>  
- 
-
----
-
-<div align="center">
-
-## 📬 Let's Connect
-   📧 Email: kit28.24bcs316email@gmail.com
-   
-###  Fun Fact
-*"👾 Fun fact: I focus on writing clean code that makes games smoother, smarter, and scalable!"*
-
-**⭐ From [Shyaam K](https://github.com/shyaamk629)**
 
 </div>
+# 💫 About Me:
+ ### 🚀 About Me<br>   🎓 Student <br>    🌱 Currently learning Full Stack Development  <br>     💻 Interested in game development & video editing 
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CxDPnuDc7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shyaam-k-a37212397?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit28.24bcs316@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shyaamk629&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shyaamk629&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shyaamk629&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=shyaamk629&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
