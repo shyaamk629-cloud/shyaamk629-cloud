@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff82a9&text=SHYAAM K%20&section=footer&reversal=false&fontColor=0CE2ED
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff82a9&text=SHYAAM.K%20&section=footer&reversal=false&fontColor=B10CED
 &fontSize=70&fontAlign=53&fontAlignY=63&animation=twinkling&stroke=ff82a9&descAlign=53&descSize=30&descAlignY=76" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B10CED
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0CEDE6
 &center=true&vCenter=true&width=600&lines=+Passionate;🚀+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
