@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=27408b&text=Durairaja%20S&fontAlign=50&rotate=0&fontSize=0&desc=Web%20Developer&descAlign=38&descAlignY=65&animation=twinkling&textBg=false&fontColor=000000&reversal=true&section=header&stroke=00eaff&strokeWidth=3&descSize=0" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff82a9&text=SHYAAM.K%20&section=footer&reversal=false&fontColor=5B5B5B&fontSize=70&fontAlign=53&fontAlignY=63&animation=twinkling&stroke=ff82a9&descAlign=53&descSize=30&descAlignY=76" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;%F0%9F%9A%80+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate;🚀+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=durairaja-s&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/durairaja-s?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/durairaja-s?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=shyaamk629&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/shyaam;?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/shyaam?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
