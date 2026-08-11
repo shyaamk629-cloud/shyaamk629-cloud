@@ -66,6 +66,15 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+   
+ <img src="https://github-profile-trophy.vercel.app/?username=shyaamk629&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+
+ </div>
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shyaamk629-cloud&theme=tokyonight)
