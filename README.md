@@ -59,52 +59,51 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyaam/shyaam/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyaam/shyaam/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shyaam/mahalakshmi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shyaam/shyaam/output/github-snake.svg" />
 </picture>
 
 </div>  
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
-   
- <img src="https://github-profile-trophy.vercel.app/?username=shyaamk629&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
- </div>
+<img src="https://github-profile-trophy.vercel.app/?username=shyaam&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
 ---
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shyaamk629-cloud&theme=tokyonight)
 
 ---
-## 🌱 Currently learning 
-
-- 👨‍💻 coding skills.
-- 🎥 Video Editing Skills.
-- 🎮 Currently learning game development using Unity and C#, focusing on gameplay mechanics and interactive design.
+##  Currently Learning  
+- Advanced React patterns and state management
+- Backend integration with Firebase & MongoDB
+- Advanced Data Structures & Algorithms
+- Problem Solving techniques and optimization
+- Full-Stack Development best practices
 
 ---
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/shyaam629"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shyaam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shyaamk629"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/shyaam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kit28.24bcs316@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
- 
 
 ---
 
 <div align="center">
 
-## 📬 Let's Connect
-   📧 Email: kit28.24bsc316email@gmail.com
-   
 ###  Fun Fact
-*"👾 Fun fact: I focus on writing clean code that makes games smoother, smarter, and scalable!"*
+*"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [Shyaam K](https://github.com/shyaamk629)**
+**⭐ From [shyaam k](https://github.com/shyaamk629)**
 
 </div>
+
